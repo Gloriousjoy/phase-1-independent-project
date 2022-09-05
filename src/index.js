@@ -8,3 +8,12 @@ const loadFact = ()=>{
          document.getElementById("receive-number").innerText= fetchedNumbers
       })
     }
+    function likes() {
+        let likesCount = 0;
+        document.getElementById('like-button').addEventListener('click', () => {
+            likesCount += 1
+            document.getElementById('like-count').innerText = likesCount
+    
+        }
+        )
+    }
