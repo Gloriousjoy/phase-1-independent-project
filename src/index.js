@@ -17,3 +17,7 @@ const loadFact = ()=>{
         }
         )
     }
+    document.addEventListener('DOMContentLoaded', ()=>{
+        loadFact();
+        likes();
+        })
