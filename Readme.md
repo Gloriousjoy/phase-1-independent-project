@@ -4,3 +4,7 @@
 
 # Description; 
 Random facts about numbers that the user enters. Moreover, the user can subscribe to a newsletter when they submit their email address.
+# Copyright and License
+The background colors was genereted with the help of coolor.com pallete generator. 
+A public API was used to generate the random facts.
+All other rights reserved by "Glorious Joy"
